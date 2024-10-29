@@ -7,8 +7,6 @@ This repository contains a Postman collection with test cases for the Rest Booke
 3. **Update Booking**
 4. **Delete Booking**
 
-Feel free to add additional API calls if required.
-
 ## Environments
 
 Two environments have been set up:
